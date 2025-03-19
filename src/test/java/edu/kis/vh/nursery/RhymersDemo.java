@@ -1,7 +1,10 @@
 package edu.kis.vh.nursery;
 
+<<<<<<< HEAD
 import edu.kis.vh.nursery.DefaultCountingOutRhymer;
 import edu.kis.vh.nursery.HanoiRhymer;
+=======
+>>>>>>> 6bd7702 (4.1 poprawa nazw klas)
 import edu.kis.vh.nursery.factory.DefaultRhymersFactory;
 import edu.kis.vh.nursery.factory.Rhymersfactory;
 
