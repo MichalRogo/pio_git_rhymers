@@ -55,8 +55,8 @@ public class IntLinkedList {
     /**
      * Jeśli lista jest pusta, funkcja zwraca DEFAULT_RETURN.
      * W przeciwnym razie usuwa ostatni element z listy i zwraca jego wartość
-     * TODO - add exception - poinformowanie użytkownika o próbie usunięcia nieistniejącego elementu
      * @return - DEFAULT_RETURN jeśli lista jest pusta/wartość usuniętego elementu jeśli nie
+     * TODO - add exception - poinformowanie użytkownika o próbie usunięcia nieistniejącego elementu
      */
     public int pop() {
         if (isEmpty())
