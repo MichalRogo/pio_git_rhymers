@@ -2,7 +2,7 @@ package edu.kis.vh.nursery;
 
 import org.junit.Assert;
 import org.junit.Test;
-
+//wszystkie testy zostały wykonane.
 public class RhymersJUnitTest {
 
     @Test
